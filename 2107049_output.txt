@@ -1,0 +1,1568 @@
+
+
+=====================================================================
+
+-------------------------------------------------------------------
+|             Welcome to the Supershop Management System          |
+-------------------------------------------------------------------
+
+                   ::Choose a mode to login::
+
+1. Store Manager
+2. Customer
+3. Exit
+1
+===========================================================================
+
+       ::::PLEASE ENTER THE PASSWORD TO VERIFY YOUR IDENTITY:::
+
+
+Password:
+1234
+
+
+
+
+           WELCOME TO THE SHOP, MANAGER. HOW WOULD YOU LIKE TO MANAGE THE SHOP TODAY?
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+1
+
+How many products do you want to add?
+
+2
+
+Please enter the id of the product
+
+11
+
+Please enter the name of the product
+
+Marker
+
+Please enter the quantity of the added product
+
+20
+
+Please enter the price of the added product
+
+15
+
+Please enter the category of the added prdouct
+
+Stationary
+
+Please enter the id of the product
+12
+
+Please enter the name of the product
+
+Duster
+
+Please enter the quantity of the added product
+
+15
+
+Please enter the price of the added product
+
+30
+
+Please enter the category of the added prdouct
+
+Stationary
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+
+2
+
+How many products do you want to remove?
+
+1
+ID of the product you want to remove:12
+Product ID: 12
+Product Name: Duster
+Product Price: 30
+Product Quantity: 15
+Product Category: Stationary
+Product Availability: Available
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+
+3
+________________________________________
+There are total 11 products in the shop
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 10
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 7
+Product Name: Perfume
+Product Price: 400
+Product Quantity: 0
+Product Category: Beauty
+Product Availability: Not Available
+
+
+Product ID: 8
+Product Name: Fan
+Product Price: 4000
+Product Quantity: 3
+Product Category: Household
+Product Availability: Available
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 5
+Product Category: Utilities
+Product Availability: Available
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 13
+Product Category: Medical
+Product Availability: Available
+
+
+Product ID: 11
+Product Name: Marker
+Product Price: 15
+Product Quantity: 20
+Product Category: Stationary
+Product Availability: Available
+
+________________________________________
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+
+4
+Press 1 to search product id
+Press 2 to search product name
+1
+Enter the id you want to search:11
+Product ID: 11
+Product Name: Marker
+Product Price: 15
+Product Quantity: 20
+Product Category: Stationary
+Product Availability: Available
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+
+4
+Press 1 to search product id
+Press 2 to search product name
+2
+Enter the name you want to search:Medicine
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 13
+Product Category: Medical
+Product Availability: Available
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+
+5
+ID of the product:10
+New quantity of the product:10
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 13
+Product Category: Medical
+Product Availability: Available
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+
+6
+ID of the product:11
+New price of the product:15
+Product ID: 11
+Product Name: Marker
+Product Price: 15
+Product Quantity: 20
+Product Category: Stationary
+Product Availability: Available
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+
+7
+ID of the product:11
+increase of the product quantity:4
+Product ID: 11
+Product Name: Marker
+Product Price: 15
+Product Quantity: 20
+Product Category: Stationary
+Product Availability: Available
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+
+8
+ID of the product:11
+decrease of the product quantity:3
+Product ID: 11
+Product Name: Marker
+Product Price: 15
+Product Quantity: 24
+Product Category: Stationary
+Product Availability: Available
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+
+9
+
+How many employees do you want to recruit?
+
+2
+
+Please enter the id of the employee
+
+1
+
+Please enter the name of the employee
+
+Farid
+
+Please enter the id of the employee
+
+2
+
+Please enter the name of the employee
+
+Abir
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+
+10
+
+How many employees do you want to fire?
+
+1
+
+Please enter the id of the employee
+
+1
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+
+11
+________________________________________
+There are total 2 employees in the shop
+
+
+
+Cashier ID: 1
+Cashier Name: Farid
+
+
+
+Cashier ID: 2
+Cashier Name: Abir
+
+________________________________________
+
+Choose a query::
+
+1. Add a product
+
+2. Remove a product
+
+3. Show all products
+
+4. search a product
+
+5. Reset quantity of a product
+
+6. Reset price of a product
+
+7. Add stock to a product
+
+8. Remove stock of a product
+
+9. Recruit a cashier
+
+10. Fire a cashier
+
+11. Show all cashiers
+
+12. Exit and Finalize changes
+
+12
+
+YOUR REQUESTS HAVE BEEN SUCCESSFULLY PROCESSED!!!
+
+
+=====================================================================
+
+-------------------------------------------------------------------
+|             Welcome to the Supershop Management System          |
+-------------------------------------------------------------------
+
+                   ::Choose a mode to login::
+
+1. Store Manager
+2. Customer
+3. Exit
+2
+================================================================================================
+
+-------------------------------- -WELCOME TO OUR SUPERSHOP!!!----------------------------------
+
+          I am Farid, the cashier and I will be here the whole time to assist you!
+
+BUT BEFORE YOU CAN START BROWSING AND START SHOPPING HERE WE NEED TO REGISTER YOUR INFORMATIONS!!!
+
+
+Please enter your id:
+
+1
+
+Please enter your name:
+
+Galib
+
+Please enter your address:
+
+Ghop
+
+Please enter your contact number:
+
+011212323
+
+Please enter your email address:
+
+dhfs@gmail.com
+
+Please enter your gender:
+
+Male
+
+Thank you for being with us here today Galib,  Sir!
+
+Please let us know how can we be of your service today, Sir:
+
+
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Search a product
+
+6. Search a category
+
+7. Exit & Process your purchase
+
+1
+________________________________________
+There are total 21 products in the shop
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 10
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 7
+Product Name: Perfume
+Product Price: 400
+Product Quantity: 0
+Product Category: Beauty
+Product Availability: Not Available
+
+
+Product ID: 8
+Product Name: Fan
+Product Price: 4000
+Product Quantity: 3
+Product Category: Household
+Product Availability: Available
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 5
+Product Category: Utilities
+Product Availability: Available
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 10
+Product Category: Medical
+Product Availability: Available
+
+
+Product ID: 11
+Product Name: Marker
+Product Price: 15
+Product Quantity: 21
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 10
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 7
+Product Name: Perfume
+Product Price: 400
+Product Quantity: 0
+Product Category: Beauty
+Product Availability: Not Available
+
+
+Product ID: 8
+Product Name: Fan
+Product Price: 4000
+Product Quantity: 3
+Product Category: Household
+Product Availability: Available
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 5
+Product Category: Utilities
+Product Availability: Available
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 13
+Product Category: Medical
+Product Availability: Available
+
+________________________________________
+
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Search a product
+
+6. Search a category
+
+7. Exit & Process your purchase
+
+2
+________________________________________
+There are 20 products currently available in the shop
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 10
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 8
+Product Name: Fan
+Product Price: 4000
+Product Quantity: 3
+Product Category: Household
+Product Availability: Available
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 5
+Product Category: Utilities
+Product Availability: Available
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 10
+Product Category: Medical
+Product Availability: Available
+
+
+Product ID: 11
+Product Name: Marker
+Product Price: 15
+Product Quantity: 21
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 10
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 8
+Product Name: Fan
+Product Price: 4000
+Product Quantity: 3
+Product Category: Household
+Product Availability: Available
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 5
+Product Category: Utilities
+Product Availability: Available
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 13
+Product Category: Medical
+Product Availability: Available
+
+________________________________________
+
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Search a product
+
+6. Search a category
+
+7. Exit & Process your purchase
+
+4
+Please enter the id of the product which you want to be restocked:
+ID:
+15
+Your request has been processed! Thanks for your input!
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Search a product
+
+6. Search a category
+
+7. Exit & Process your purchase
+
+5
+Enter the wanted name:Medicine
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 10
+Product Category: Medical
+Product Availability: Available
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Search a product
+
+6. Search a category
+
+7. Exit & Process your purchase
+
+
+6
+Enter your desired category:Stationary
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+Product ID: 11
+Product Name: Marker
+Product Price: 15
+Product Quantity: 21
+Product Category: Stationary
+Product Availability: Available
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+Here is all products within Stationary category
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Search a product
+
+6. Search a category
+
+7. Exit & Process your purchase
+
+3
+________________________________________
+There are 20 products currently available in the shop
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 10
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 8
+Product Name: Fan
+Product Price: 4000
+Product Quantity: 3
+Product Category: Household
+Product Availability: Available
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 5
+Product Category: Utilities
+Product Availability: Available
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 10
+Product Category: Medical
+Product Availability: Available
+
+
+Product ID: 11
+Product Name: Marker
+Product Price: 15
+Product Quantity: 21
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 1
+Product Name: Toothpaste
+Product Price: 80
+Product Quantity: 7
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 2
+Product Name: Soap
+Product Price: 50
+Product Quantity: 10
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 3
+Product Name: Shampoo
+Product Price: 140
+Product Quantity: 8
+Product Category: Toiletries
+Product Availability: Available
+
+
+Product ID: 4
+Product Name: Notebook
+Product Price: 100
+Product Quantity: 18
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 5
+Product Name: Pens
+Product Price: 10
+Product Quantity: 40
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 6
+Product Name: Books
+Product Price: 250
+Product Quantity: 1
+Product Category: Stationary
+Product Availability: Available
+
+
+Product ID: 8
+Product Name: Fan
+Product Price: 4000
+Product Quantity: 3
+Product Category: Household
+Product Availability: Available
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 5
+Product Category: Utilities
+Product Availability: Available
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 13
+Product Category: Medical
+Product Availability: Available
+
+________________________________________
+
+Choose your query
+
+1. Add a product to cart
+
+2. Remove a product from cart
+
+3. Show your cart
+
+4. Checkout
+
+1
+
+Which product do you want?Please enter it's id and quantity:
+
+ID:
+
+10
+
+Quantity:
+3
+
+Do you want to add more products?Type Yes/yes if you want to.
+
+yes
+
+
+
+Which product do you want?Please enter it's id and quantity:
+
+ID:
+
+9
+
+Quantity:
+1
+
+Do you want to add more products?Type Yes/yes if you want to.
+
+no
+
+
+Choose your query
+
+1. Add a product to cart
+
+2. Remove a product from cart
+
+3. Show your cart
+
+4. Checkout
+3
+You have 2 products in your cart
+________________________________________
+There are total 2 products in your cart
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 3
+Product Category: Medical
+Product Availability: Available
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 1
+Product Category: Utilities
+Product Availability: Available
+
+________________________________________
+
+Choose your query
+
+1. Add a product to cart
+
+2. Remove a product from cart
+
+3. Show your cart
+
+4. Checkout
+
+2
+
+Which product do you want to remove from the cart?Please enter it's id and quantity:
+ID:
+
+10
+
+Quantity:
+
+2
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 10
+Product Category: Medical
+Product Availability: Available
+Do you want to remove more products?Type Yes/yes if you want to.
+
+no
+
+
+Choose your query
+
+1. Add a product to cart
+
+2. Remove a product from cart
+
+3. Show your cart
+
+4. Checkout
+3
+You have 2 products in your cart
+________________________________________
+There are total 2 products in your cart
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 1
+Product Category: Medical
+Product Availability: Available
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 1
+Product Category: Utilities
+Product Availability: Available
+
+________________________________________
+
+Choose your query
+
+1. Add a product to cart
+
+2. Remove a product from cart
+
+3. Show your cart
+
+4. Checkout
+
+4
+
+You have 2 products in your cart
+________________________________________
+There are total 2 products in your cart
+
+
+Product ID: 10
+Product Name: Medicine
+Product Price: 90
+Product Quantity: 1
+Product Category: Medical
+Product Availability: Available
+
+
+Product ID: 9
+Product Name: Bag
+Product Price: 1300
+Product Quantity: 1
+Product Category: Utilities
+Product Availability: Available
+
+________________________________________
+
+
+Total price: 1570 Tk/-
+
+
+Checking out.......
+
+1. Show the whole inventory of products
+
+2. Show only the available products
+
+3. Start Shopping from the available products
+
+4. Request Restock of an unavailable product
+
+5. Search a product
+
+6. Search a category
+
+7. Exit & Process your purchase
+
+7
+
+---------------------------------------------------------------------------------------------------------------
+|========================================SUPERSHOP PAYMENT RECEIPT========================================|
+---------------------------------------------------------------------------------------------------------------
+
+CONTACT INFO:
+
+
+Customer Id: 1301739584
+Customer Name:
+Customer address:
+Customer Contact Number:
+Customer Email:
+Customer Gender:
+==========================================================================================================
+
+Cashier ID: 2
+Cashier:
+==========================================================================================================
+
+SERIAL NO.               ITEM               QUANTITY               CATEGORY               PRICE
+    1                  Medicine               1                  Medical              90
+
+    2                  Bag               1                  Utilities              1300
+
+TOTAL PRICE
+             1570
+
+VAT
+             235.5
+
+__________________________________________________________________________________________________
+
+GRAND TOTAL
+             1805.5
+
+Thank you for choosing us  Madam. Come visit us again
+
+=======================SUPERSHOP MANAGEMENT SYSTEM BY REZUAN, ABIR & SARWAD====================================
+
+
+
+=====================================================================
+
+-------------------------------------------------------------------
+|             Welcome to the Supershop Management System          |
+-------------------------------------------------------------------
+
+                   ::Choose a mode to login::
+
+1. Store Manager
+2. Customer
+3. Exit
+3
+===============================================================================
+
+
+    THANKS FOR CHOOSING OUR SERVICE, MADE BY REZUAN, ABIR & SARWAD
+
+
+               THE MANAGEMENT SYSTEM IS EXITING...
+
+
+==== Program exited with exit code: 0 ====
+Time elapsed: 008:08.704 (MM:SS.MS)
+Press any key to continue...
